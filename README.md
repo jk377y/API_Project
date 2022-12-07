@@ -8,7 +8,7 @@ We built this webpage in order to create a quick and easy way for a user to acce
 - [**License**](#license)
 - [**Technologies**](#technologies)
 ## **Installation**
-No installation steps are required. This application may be visited at ***https://calebgdavidson.github.io/Group-Project1/***
+No installation steps are required. This application may be visited at ***https://jk377y.github.io/API_Project/***
 ## **Usage**
 **How it works:**
 <br><br>**Step 1:** We begin by setting up our modal to accept an input value for any valid zip code in the united states.  Enter a zip code and press the "Submit" button.
