@@ -29,7 +29,7 @@ body {
 #header {
     height: 20%;
     background-color: var(--bgcolor);
-    border: 3px solid black;    
+    border: 3px solid black; 
 }
 
 .titleDiv {
@@ -289,6 +289,7 @@ li span:nth-child(3){
 }
 
 .hover:hover {
+    color: var(--whiteText);
     border: 3px solid var(--hover);
     cursor: pointer;
     text-decoration: none;
